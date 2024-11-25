@@ -1,0 +1,6 @@
+Ok guys, so we decided that... since we are "researching" the effects of the AHA for the years 2013-2016, we should use a comparison between the states that passed the ACA opposed 
+to states that didnt. It came to my attention that in the dataset, there were states that didnt pass it and I assume there should be a way to seperate the ones that did and didnt. 
+Anyways I think that we should probably restart the code (really just changing a few pieces in the code), seperating and inputing (mean, median, etc.) any missing values, and then 
+creating visual graphs for each of them. We can then compare the two types of states (that did and did not pass the AHA) visually with "bar graphs" or/and "line graphs" and then 
+finally, create a write up that reflects the main research question. I think that should be really it??? Ill go ahead and update the research quesiton on the coding if that 
+helps as well.
